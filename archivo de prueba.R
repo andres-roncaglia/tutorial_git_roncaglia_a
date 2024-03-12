@@ -8,3 +8,6 @@ mtcars %>% group_by(cyl) %>%
 ggplot(mtcars) +
   aes(x = mpg, y = factor(cyl)) + 
   geom_boxplot()
+
+
+# Comentario innecesario
