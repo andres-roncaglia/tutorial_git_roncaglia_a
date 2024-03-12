@@ -10,4 +10,3 @@ ggplot(mtcars) +
   geom_boxplot()
 
 
-# Comentario innecesario
